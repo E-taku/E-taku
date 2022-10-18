@@ -8,7 +8,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=E-taku&count_private=true&show_icons=true&theme=radical)
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E-taku&count_private=true&theme=onedark&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E-taku&count_private=true&theme=onedark&layout=compact)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=E-taku&row=1&column=8&theme=algolia)
 
