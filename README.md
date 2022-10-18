@@ -3,8 +3,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=E-taku&count_private=true&show_icons=true&theme=radical)
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E-taku&count_private=true&theme=onedark&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=E-taku&layout=compact&count_private=true&show_icons=true&theme=onedark)
 <p align="left"> 
   <img alt="Top Langs" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-taku&layout=compact&count_private=true&show_icons=true&theme=onedark" />
   
