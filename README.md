@@ -4,6 +4,9 @@
 <br>
 <p align="left"> 
   <img alt="Top Langs" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-taku&layout=compact&count_private=true&show_icons=true&theme=onedark" />
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E-taku&layout=compact)
+  
 <!--   <img alt="github stats" height="" src="https://github-readme-stats.vercel.app/api?username=E-taku&count_private=true&show_icons=true&show_icons=true&theme=onedark" /> -->
 </p>
 
