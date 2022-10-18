@@ -5,14 +5,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E-taku&count_private=true&theme=onedark&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) 
 
-<p align="left"> 
-  <img alt="Top Langs" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-taku&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/?username=E-taku&layout=compact&theme=onedark&count_private=true)
-  
-<!--   <img alt="github stats" height="" src="https://github-readme-stats.vercel.app/api?username=E-taku&count_private=true&show_icons=true&show_icons=true&theme=onedark" /> -->
-</p>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E-taku&theme=dark&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) 
 
 
