@@ -10,6 +10,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E-taku&count_private=true&theme=onedark&layout=compact&langs_count=10)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=E-taku&row=1&column=8&theme=algolia)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=E-taku&theme=onedark&column=7)
 
