@@ -8,7 +8,7 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=E-taku&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+)]
 
 
 <!--
