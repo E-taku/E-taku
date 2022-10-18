@@ -7,8 +7,8 @@
 <!--   <img alt="github stats" height="" src="https://github-readme-stats.vercel.app/api?username=E-taku&count_private=true&show_icons=true&show_icons=true&theme=onedark" /> -->
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=E-taku&theme=onedark&column=7
-)]
+![trophy](https://github-profile-trophy.vercel.app/?username=E-taku&theme=onedark&column=7
+)
 
 
 <!--
