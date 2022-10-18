@@ -12,8 +12,6 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=E-taku&row=1&column=8&theme=algolia)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=E-taku&theme=onedark&column=7)
-
 ![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=E_taku&theme=radical)
 
 <!--
