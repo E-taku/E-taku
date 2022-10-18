@@ -8,13 +8,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=E-taku&count_private=true&show_icons=true&theme=radical)
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E-taku&count_private=true&theme=onedark&layout=compact&langs_count=10)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E-taku&count_private=true&theme=onedark&layout=compact&langs_count=10)
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=E-taku&theme=onedark&column=7
-)
+![trophy](https://github-profile-trophy.vercel.app/?username=E-taku&theme=onedark&column=7)
 
-[![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=E_taku&theme=radical)]
+![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=E_taku&theme=radical)
 
 <!--
 **E-taku/E-taku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
