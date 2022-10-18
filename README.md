@@ -1,5 +1,10 @@
 ### 
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/E-taku/count.svg" />
+</p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=E-taku&count_private=true&show_icons=true&theme=radical)
 <br>
 
@@ -9,6 +14,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=E-taku&theme=onedark&column=7
 )
 
+[![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=E-taku&theme=radical)](https://github.com/KATO-Hiro/AtCoderTrophies)
 
 <!--
 **E-taku/E-taku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
