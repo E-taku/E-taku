@@ -14,7 +14,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=E-taku&theme=onedark&column=7
 )
 
-[![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=E-taku&theme=radical)](https://github.com/KATO-Hiro/AtCoderTrophies)
+[![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=E_taku&theme=radical)](https://github.com/KATO-Hiro/AtCoderTrophies)
 
 <!--
 **E-taku/E-taku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
