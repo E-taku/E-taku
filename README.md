@@ -5,6 +5,10 @@
   <img src="https://profile-counter.glitch.me/E-taku/count.svg" />
 </p>
 
+
+![](https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat)
+![](https://img.shields.io/badge/-Neovim-E6E6E6.svg?logo=Neovim&style=flat)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=E-taku&count_private=true&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E-taku&count_private=true&theme=onedark&layout=compact)
