@@ -15,9 +15,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E-taku&count_private=true&theme=onedark&layout=compact)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=E-taku&row=1&column=8&theme=algolia)
-
+<!--
 ![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=E_taku&theme=radical)
-
+-->
 <!--
 **E-taku/E-taku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
